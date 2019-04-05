@@ -18,7 +18,6 @@ System = jpy.get_type('java.lang.System')
 pm = PrintPM(System.out)
 
 
-
 """ Use GDAL to read tif """
 dataPath = "data\\"
 dataName = "SAR_20180817_DSC115_snap"
